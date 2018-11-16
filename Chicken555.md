@@ -55,12 +55,12 @@ This is my self styled chicken starter which tastes like *Paradise Restaurant* C
     Flavourful chicken starter is ready to eat.
 
     **Note:** Adding water releases flavour of curry leaves into water. If curry leaves are too much cooked, flavour of curry leaves is escaped into air before addition of water.  
-    *Adding water arrests the curry leaves flavour in the water.*  
-    I use this technique while preparing upma. _**I will add ginger, green chillies and curry leaves at last and once these are half cooked(or little more) in the oil, I will add water. This helps in releasing all the flavours into water thereby giving the same flavour to Upma.**_  
-    *Over cooking or over boiling makes the tasty flavours escape into air and make the recipe taste bland.*
+    _**Adding water arrests the curry leaves flavour in the water.**_  
+    I use this technique while preparing upma. *I will add ginger, green chillies and curry leaves at last and once these are half cooked(or little more) in the oil, I will add water. This helps in releasing all the flavours into water thereby giving the same flavour to Upma.*  
+    _**Over cooking or over boiling makes the tasty flavours escape into air and make the recipe taste bland.**_
 
 ### Questions
 #### Adding next item only after the first item is half cooked. Why?
-While the first item is half cooked, we are giving sufficient amount of time for the item to release the flavours into the oil. And further cooking is done after adding the second item. When second item starts to cook, first item continues to be cooked along with second item. First item will be completely cooked at the end of preparation.
-    First item will cook slowly compared with second item. Items that cook slowly will go into the pan first.
-    In this recipe, I decided that garlic will be cooked first and followed by ginger. You can add cashew first if you think cashew is not cooked(or fried) properly if added according to my recipe. Even I don’t follow the order sometimes in this recipe which I mentioned. I will try and experiment with different possibilities till I get what I had in my mind.
+While the first item is half cooked, we are giving sufficient amount of time for the item to release the flavours into the oil. And further cooking is done after adding the second item. When second item starts to cook, first item continues to be cooked along with second item. First item will be completely cooked at the end of preparation.  
+    First item will cook slowly compared with second item. Items that cook slowly will go into the pan first.  
+    In this recipe, I decided that garlic will be cooked first and followed by ginger. You can add cashew first if you think cashew is not cooked(or fried) properly if added according to my recipe. Even I don’t follow the order sometimes in this recipe which I mentioned. *I will try and experiment with different possibilities till I get what I had in my mind.*
