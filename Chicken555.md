@@ -38,7 +38,7 @@ This is my self styled chicken starter which tastes like *Paradise Restaurant* C
 
     **Note:** Breast pieces cook faster than thigh pieces. Be aware that chicken pieces become rubbery if over cooked and feels like eating powder. Also be aware that chicken gets cooked a little by hot oil before cooling off even after removing from fry pan.
 
-2. Heat 2-3 tablespoons oil in skillet. Add chopped garlic when oil is medium(or little less) hot and mix well. Make sure flame is in medium(or less). Flavour of garlic slowly releases into oil.
+2. Heat 2-3 tablespoons oil in skillet. Add chopped garlic when oil is medium(or little less) hot and mix well. Make sure flame is in medium(or less). Flavour of garlic slowly releases into oil.  
     If oil is too hot, garlic flavour releases fast and high chances for garlic getting burnt. Burnt garlic flavour is not nice and it makes the whole preparation waste.
 
     When garlic is half cooked, add ginger and mix well. When ginger is half cooked, add cashew nut. If you like to have little gravy, add finely chopped onions when cashew nut is half cooked. Add little salt(since we added onions) and mix.
@@ -54,9 +54,9 @@ This is my self styled chicken starter which tastes like *Paradise Restaurant* C
 
     Flavourful chicken starter is ready to eat.
 
-    **Note:** Adding water releases flavour of curry leaves into water. If curry leaves are too much cooked, flavour of curry leaves is escaped into air before addition of water. 
-    *Adding water arrests the curry leaves flavour in the water.*
-    I use this technique while preparing upma. _**I will add ginger, green chillies and curry leaves at last and once these are half cooked(or little more) in the oil, I will add water. This helps in releasing all the flavours into water thereby giving the same flavour to Upma.**_ 
+    **Note:** Adding water releases flavour of curry leaves into water. If curry leaves are too much cooked, flavour of curry leaves is escaped into air before addition of water.  
+    *Adding water arrests the curry leaves flavour in the water.*  
+    I use this technique while preparing upma. _**I will add ginger, green chillies and curry leaves at last and once these are half cooked(or little more) in the oil, I will add water. This helps in releasing all the flavours into water thereby giving the same flavour to Upma.**_  
     *Over cooking or over boiling makes the tasty flavours escape into air and make the recipe taste bland.*
 
 ### Questions
