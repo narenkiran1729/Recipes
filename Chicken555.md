@@ -32,11 +32,11 @@ This is my self styled chicken starter which tastes like *Paradise Restaurant* C
 
     To this mixture Add corn flour, wheat flour, lime juice and mix well.
 
-**Note:** Make sure that consistency of mixture is little thick so that mixture does not get off from the chicken pieces while frying. Consistency must be somewhat like batter of onion pakodi.
+    **Note:** Make sure that consistency of mixture is little thick so that mixture does not get off from the chicken pieces while frying. Consistency must be somewhat like batter of onion pakodi.
 
     Fry the chicken pieces in medium hot oil till chicken is 50-75% cooked. This fried chicken can be kept aside for one day I guess. Street vendors usually keep this aside and cook them with tadka when ordered.
 
-**Note:** Breast pieces cook faster than thigh pieces. Be aware that chicken pieces become rubbery if over cooked and feels like eating powder. Also be aware that chicken gets cooked a little by hot oil before cooling off even after removing from fry pan.
+    **Note:** Breast pieces cook faster than thigh pieces. Be aware that chicken pieces become rubbery if over cooked and feels like eating powder. Also be aware that chicken gets cooked a little by hot oil before cooling off even after removing from fry pan.
 
 2. Heat 2-3 tablespoons oil in skillet. Add chopped garlic when oil is medium(or little less) hot and mix well. Make sure flame is in medium(or less). Flavour of garlic slowly releases into oil.
     If oil is too hot, garlic flavour releases fast and high chances for garlic getting burnt. Burnt garlic flavour is not nice and it makes the whole preparation waste.
@@ -46,7 +46,7 @@ This is my self styled chicken starter which tastes like *Paradise Restaurant* C
     When these onions are half cooked, add cubed onions and capsicum and mix. Add little salt(since we added veggies) and mix. When onions turn transparent, add curry leaves and turn the flame to high and after 1-2 minutes add fried chicken pieces and mix well. 
     Make sure not to add curry leaves too early. If curry leaves are added too early, aroma and flavour of them will escape into air. Curry leaves taste bland.
 
-After 1-2 minutes, turn the flame to medium(or less). Add little sugar, salt, ajinomoto, tomato sauce, soya sauce and mix well.
+    After 1-2 minutes, turn the flame to medium(or less). Add little sugar, salt, ajinomoto, tomato sauce, soya sauce and mix well.
 
     After 1-2 minutes, add little water(not too much, 3/4th of the water needs to be evaporated) and increase the flame to high.
     Make sure chicken gets cooked in water and becomes hot. This is how we get hot chicken pieces soaked in tasty hot gravy.
@@ -54,10 +54,12 @@ After 1-2 minutes, turn the flame to medium(or less). Add little sugar, salt, aj
 
     Flavourful chicken starter is ready to eat.
 
-**Note:** Adding water releases flavour of curry leaves into water. If curry leaves are too much cooked, flavour of curry leaves is escaped into air before addition of water. 
+    **Note:** Adding water releases flavour of curry leaves into water. If curry leaves are too much cooked, flavour of curry leaves is escaped into air before addition of water. 
     *Adding water arrests the curry leaves flavour in the water.*
-   I use this technique while preparing upma. _I will add ginger, green chillies and curry leaves at last and once these are half cooked(or little more) in the oil, I will add water. This helps in releasing all the flavours into water thereby giving the same flavour to Upma._ *Over cooking or over boiling makes the tasty flavours escape into air and make the recipe taste bland.*
+    I use this technique while preparing upma. _**I will add ginger, green chillies and curry leaves at last and once these are half cooked(or little more) in the oil, I will add water. This helps in releasing all the flavours into water thereby giving the same flavour to Upma.**_ 
+    *Over cooking or over boiling makes the tasty flavours escape into air and make the recipe taste bland.*
 
+### Questions
 #### Adding next item only after the first item is half cooked. Why?
 While the first item is half cooked, we are giving sufficient amount of time for the item to release the flavours into the oil. And further cooking is done after adding the second item. When second item starts to cook, first item continues to be cooked along with second item. First item will be completely cooked at the end of preparation.
     First item will cook slowly compared with second item. Items that cook slowly will go into the pan first.
