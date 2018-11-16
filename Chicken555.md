@@ -16,12 +16,12 @@ This is my self styled chicken starter which tastes like *Paradise Restaurant* C
 4. Corn flour : All purpose flour 1:1
     I replaced all purpose flour with more healthier Wheat flour
 5. Lemon
-6. Soya sauce _(which I forgot to add)_
+6. Soya sauce _(which I forgot to add)_ _(I would normally use Ching's Dark soya sauce)_
 7. Ginger - juvelline cut
 8. Garlic - chopped
 9. Onions - Cubed
 10. Capsicum - Cubed
-11. Tomato sauce
+11. Tomato sauce _(I used weikfield's tomato sauce. Next time, I will try Ching's. Heard from mi chiquita that Maggi's tomato ketchup is also good.)_
 12. Curry leaves
 13. Cashew nut
 14. Ajinomoto
