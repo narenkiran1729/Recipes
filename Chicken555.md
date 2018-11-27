@@ -60,10 +60,10 @@ This is my self styled chicken starter which tastes like *Paradise Restaurant* C
     _**Over cooking or over boiling makes the tasty flavours escape into air and make the recipe taste bland.**_
 
 ### Observations inlatest preparations
-#### Preparation on Nov 16, 2018  
-I added soya sauce(ching’s) in raw chicken pieces while marinating. Then fried these pieces in oil. These pieces are excellent to eat even before tadka.  
-I also added soya sauce while tadka. Addition of soya sauce while tadka intensified the paradise restaurant’s flavour.  
-*Add only 1-2 table spoons of soya sauce. Small quantity of soya sauce will have too much flavour. Adding more soya sauce makes the recipe taste more like soya sauce.
+#### 1. Preparation on Nov 16, 2018  
+    I added soya sauce(ching’s) in raw chicken pieces while marinating. Then fried these pieces in oil. These pieces are excellent to eat even before tadka.  
+    I also added soya sauce while tadka. Addition of soya sauce while tadka intensified the paradise restaurant’s flavour.  
+*Add only 1-2 table spoons of soya sauce. Small quantity of soya sauce will have too much flavour. Adding more soya sauce makes the recipe taste more like soya sauce.*
 
 ### Questions
 #### *Q)* Adding next item only after the first item is half cooked. Why?
