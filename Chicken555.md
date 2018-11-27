@@ -59,6 +59,12 @@ This is my self styled chicken starter which tastes like *Paradise Restaurant* C
     I use this technique while preparing upma. *I will add ginger, green chillies and curry leaves at last and once these are half cooked(or little more) in the oil, I will add water. This helps in releasing all the flavours into water thereby giving the same flavour to Upma.*  
     _**Over cooking or over boiling makes the tasty flavours escape into air and make the recipe taste bland.**_
 
+### Observations inlatest preparations
+#### Preparation on Nov 16, 2018  
+I added soya sauce(ching’s) in raw chicken pieces while marinating. Then fried these pieces in oil. These pieces are excellent to eat even before tadka.  
+I also added soya sauce while tadka. Addition of soya sauce while tadka intensified the paradise restaurant’s flavour.  
+*Add only 1-2 table spoons of soya sauce. Small quantity of soya sauce will have too much flavour. Adding more soya sauce makes the recipe taste more like soya sauce.
+
 ### Questions
 #### *Q)* Adding next item only after the first item is half cooked. Why?
 *Ans:* While the first item is half cooked, we are giving sufficient amount of time for the item to release the flavours into the oil. And further cooking is done after adding the second item. When second item starts to cook, first item continues to be cooked along with second item. First item will be completely cooked at the end of preparation.  
