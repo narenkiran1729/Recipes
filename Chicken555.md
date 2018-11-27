@@ -63,7 +63,8 @@ This is my self styled chicken starter which tastes like *Paradise Restaurant* C
 #### 1. Preparation on Nov 16, 2018  
 I added soya sauce(ching’s) in raw chicken pieces while marinating. Then fried these pieces in oil. These pieces are excellent to eat even before tadka.  
     I also added soya sauce while tadka. Addition of soya sauce while tadka intensified the paradise restaurant’s flavour.  
-*Add only 1-2 table spoons of soya sauce. Small quantity of soya sauce will have too much flavour. Adding more soya sauce makes the recipe taste more like soya sauce.*
+*Add only 1-2 table spoons of soya sauce. Small quantity of soya sauce will have too much flavour. Adding more soya sauce makes the recipe taste more like soya sauce.*  
+    I used boneless chicken pieces from chicken leg portion and dry brined(add  little salt in raw chicken and keep in fridge for 30 minutes) them.Cooked pieces are very tender and moist.
 
 ### Questions
 #### *Q)* Adding next item only after the first item is half cooked. Why?
