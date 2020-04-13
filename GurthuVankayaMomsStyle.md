@@ -5,10 +5,11 @@ To learn this recipe from her I had to keep her very calm while she was making t
 
 With its thick gravy texture, tangy and spicy flavours on the tongue makes this curry more mouth watering(*that I lick the curry so much that my plate looks very clean*)
 
-*I think I don't need to mention to you how much I love this curry*
+**I think I don't need to mention to you how much I love this curry**
 
 ## Ingredients
-![Ingredients Card](https://github.com/narenkiran1729/Recipes/blob/master/Images/GurthuVankayaMomsStyle/IngredientsCard.JPG)
+![Ingredients Card](/Images/GurthuVankayaMomsStyle/IngredientsCard.JPG)  
+**Ingredients Card**
 
 1. Brinjals
 2. Oil - *This curry requires 3-4 times more oil than usual curry*
@@ -48,5 +49,6 @@ Thats it.
 Excellent Mom's style Gutti Vankaya curry ready.
 
 ### Note:
-Check pictures for visual information on quantities.
-![Ingredients Card with Brinjals](/Images/GurthuVankayaMomsStyle/IngredientsCard1.JPG)
+*Check pictures for visual information on quantities.*
+![Ingredients Card with Brinjals](/Images/GurthuVankayaMomsStyle/IngredientsCard1.JPG)  
+**Ingredients Card with Brinjals**
