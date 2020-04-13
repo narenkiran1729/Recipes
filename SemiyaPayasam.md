@@ -25,5 +25,8 @@ First half gets mixed and infused into the food(*tastes bland due to over cookin
 
 ## Images
 ![Payasam On the Stove](https://github.com/narenkiran1729/Recipes/blob/master/Images/SemiyaPayasam/PayasamOnTheStove.JPG)  
+*Payasam boiling on stove*  
+  
 ![Payasam Off the Stove](https://github.com/narenkiran1729/Recipes/blob/master/Images/SemiyaPayasam/PayasamOffTheStove.JPG)  
+
 ![Payasam CloseUpShot Off the Stove](https://github.com/narenkiran1729/Recipes/blob/master/Images/SemiyaPayasam/PayasamCloseUpOffTheStove.JPG)
