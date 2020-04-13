@@ -22,3 +22,8 @@ Please remember that semiya gets cooked even after putting off stove due to the 
 * When I make semiya upma, I usually add semiya when water comes to rolling boil
 * I add half amount of cardamom(out of total quantity) while roasting nuts. I add the other half at the end before putting off stove. 
 First half gets mixed and infused into the food(*tastes bland due to over cooking*)while second half makes sure that necessary punch is present while eating.
+
+## Images
+![Payasam On the Stove](https://github.com/narenkiran1729/Recipes/blob/master/Images/SemiyaPayasam/PayasamOnTheStove.JPG)  
+![Payasam Off the Stove](https://github.com/narenkiran1729/Recipes/blob/master/Images/SemiyaPayasam/PayasamOffTheStove.JPG)  
+![Payasam CloseUpShot Off the Stove](https://github.com/narenkiran1729/Recipes/blob/master/Images/SemiyaPayasam/PayasamCloseUpOffTheStove.JPG)
