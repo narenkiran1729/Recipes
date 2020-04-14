@@ -1,4 +1,8 @@
 # GuttiVankayaMomsStyle
+
+![Final Dish](/Images/GuttiVankayaMomsStyle/FinalDish.JPG)
+**Final Dish**
+
 ## Overview
 This is my mom's recipe. I learnt this recipe from my mom(*she is an excellent cook but sometimes unable to repeat the same taste due to the pressure I put on her.*)  
 To learn this recipe from her I had to keep her very calm while she was making the curry and at the same time I had to query her(*if any*) in such a way that her calmness should not be disturbed.
@@ -8,7 +12,7 @@ With its thick gravy texture, tangy and spicy flavours on the tongue makes this 
 **I think I don't need to mention to you how much I love this curry**
 
 ## Ingredients
-![Ingredients Card](/Images/GurthuVankayaMomsStyle/IngredientsCard.JPG)  
+![Ingredients Card](/Images/GuttiVankayaMomsStyle/IngredientsCard.JPG)  
 **Ingredients Card**
 
 1. Brinjals
@@ -50,5 +54,5 @@ Excellent Mom's style Gutti Vankaya curry ready.
 
 ### Note:
 *Check pictures for visual information on quantities.*
-![Ingredients Card with Brinjals](/Images/GurthuVankayaMomsStyle/IngredientsCard1.JPG)  
+![Ingredients Card with Brinjals](/Images/GuttiVankayaMomsStyle/IngredientsCard1.JPG)  
 **Ingredients Card with Brinjals**
