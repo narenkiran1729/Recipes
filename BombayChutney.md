@@ -47,4 +47,4 @@ That's it spicy Bombay chutney is ready.
   3. **Cooking spice powders**
       * Cooking spice powders is an art. They get burnt very easily. For better results, keep the flame to low before adding the spice powders.
   4. **Adding extra punch at the end**
-    * I always add half garam masala during the recipe(*which goes deep into the dish and it's taste becomes bland*) and add the remaining half just before putting off the stove(*which gives required punch*).
+     * I always add half garam masala during the recipe(*which goes deep into the dish and it's taste becomes bland*) and add the remaining half just before putting off the stove(*which gives required punch*).
