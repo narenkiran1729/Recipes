@@ -23,7 +23,7 @@ Slightly modifying it by adding potato and carrot makes this suitable to eat wit
 
 ## Procedure
 1. Add little amount of hot water to besan and make into semi liquid without any solid formations. Keep it aside.
-2. Keep flame small-medium and put pan on it.  
+2. Keep flame small-medium and put pan on it. *Adjust the flame according to thickness of pan. Too much heat to cooking ingredients may spoil the dish*  
     * Add oil. Wait till it becomes hot.
     * Then Add mustard seeds. Wait till they start popping.
     * Then Add crushed ginger and garlic. Wait 5-10seconds
