@@ -5,21 +5,21 @@ This is hot and spicy version that is generally available in our local tiffin sh
 Slightly modifying it by adding potato and carrot makes this suitable to eat with poori which I like the most. Again I prefer adding little groundnut chutney as well while I have my pooris.
 
 ## Ingredients for 2 persons
-1. Besan - *2tbsp*
-2. Oil - *1-2 table spoons*
+1. Besan : *2tbsp*
+2. Oil : *1-2 table spoons*
 3. Mustard seeds
-4. Ginger - *size of tamarind seed*
-5. Garlic - *2 pods(small-medium size)*
-6. Onion - *half onion(medium size) - adding more onion feels like eating onion while eating chutney which is not nice*
-7. Green chillies - *1-2 according to heat required (add little more if more heat is required) - some chillies are not too hot*
-8. Tomato (optional) - *1 small size*
-9. Curry leaves - *1/2 - 1 sprig*
+4. Ginger : *size of tamarind seed*
+5. Garlic : *2 pods(small-medium size)*
+6. Onion : *half onion(medium size) - adding more onion feels like eating onion while eating chutney which is not nice*
+7. Green chillies : *1-2 according to heat required (add little more if more heat is required) - some chillies are not too hot*
+8. Tomato (optional) : *1 small size*
+9. Curry leaves : *1/2 - 1 sprig*
 10. Salt
 11. Spice powders
     * Turmeric powder
-    * Red chilli powder - 1tbsp *adding too much makes the chutney red which is not good*
-    * Garam masala - 1tsp *sprinkle half at the end of recipe*
-12. Water - *as required for 2 persons*
+    * Red chilli powder : 1tbsp *adding too much makes the chutney red which is not good*
+    * Garam masala : 1tsp *sprinkle half at the end of recipe*
+12. Water : *as required for 2 persons*
 
 ## Procedure
 1. Add little amount of hot water to besan and make into semi liquid without any solid formations. Keep it aside.
