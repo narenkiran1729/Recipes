@@ -9,7 +9,7 @@ Slightly modifying it by adding potato and carrot makes this suitable to eat wit
 2. Oil - *1-2 table spoons*
 3. Mustard seeds
 4. Ginger - *size of tamarind seed*
-5. Garlic - *2 pods(small-medium size)
+5. Garlic - *2 pods(small-medium size)*
 6. Onion - *half onion(medium size) - adding more onion feels like eating onion while eating chutney which is not nice*
 7. Green chillies - *1-2 according to heat required (add little more if more heat is required) - some chillies are not too hot*
 8. Tomato (optional) - *1 small size*
