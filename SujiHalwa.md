@@ -43,8 +43,8 @@ If you are on bit sweeter side then you can add little bit more sugar. I prefer 
 1. I measured all quantities with respect to amount of suji.
 2. I took half glass of suji and added the other quantities based on the quantity of suji.  
 This is the proportion I used.  
-Suji : water : sugar : ghee :: 1:2:1:1/2
+Suji : water : sugar : ghee :: 1:2:1:1/2  
 
-1cup Suji => 2cups water
-1cup Suji => 1cup sugar
-1cup Suji => 1/2 cup ghee
+1cup Suji => 2cups water  
+1cup Suji => 1cup sugar  
+1cup Suji => 1/2 cup ghee  
