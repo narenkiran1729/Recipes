@@ -43,7 +43,7 @@ If you are on bit sweeter side then you can add little bit more sugar. I prefer 
 3. **Milk or water**
     * You can replace water completely with milk.
     * You can replace water partially with milk in the ratio 1:1
-    * Using high fat milk enhances the dish even more
+    * Using high fat milk enhances the flavour(*taste*) of dish even more
 
 ### Note:
 1. I measured all quantities with respect to amount of suji.
