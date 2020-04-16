@@ -4,7 +4,7 @@
 This recipe is very simple and easy to make. The only thing is that it is little bit higher on cost due to nuts and ghee. As always you can skip the nuts if they are too costly for you to add.
 
 **Other names of Suji :**  
-Hindi - Suji
+Hindi - Suji  
 Telugu - Godhuma nooka, upma ravva, Bombay ravva
 
 
