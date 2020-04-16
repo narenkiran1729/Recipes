@@ -3,6 +3,11 @@
 ![Final Dish](/Images/SujiHalwa/FinalDish.JPG)
 This recipe is very simple and easy to make. The only thing is that it is little bit higher on cost due to nuts and ghee. As always you can skip the nuts if they are too costly for you to add.
 
+**Other names of Suji :**  
+Hindi - Suji
+Telugu - Godhuma nooka, upma ravva, Bombay ravva
+
+
 **Other names of this dish :** Rava Kesari, Sheera, Godhuma nooka halwa, Sathyanarayamurthy Prasadam(*which I call it*)
 
 ## Ingredients
@@ -38,6 +43,7 @@ If you are on bit sweeter side then you can add little bit more sugar. I prefer 
 3. **Milk or water**
     * You can replace water completely with milk.
     * You can replace water partially with milk in the ratio 1:1
+    * Using high fat milk enhances the dish even more
 
 ### Note:
 1. I measured all quantities with respect to amount of suji.
