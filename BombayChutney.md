@@ -1,6 +1,7 @@
 # Bombay chutney
 ## Overview
 I learned this recipe from mi chiquita(*who herself had learned this recipe from her father*)
+![Final Dish made by Vishnu](/Images/BombayChutney/FinalDishByVishnu.JPG)
 
 This is hot and spicy version that is generally available in our local tiffin shops in Vizianagaram. It goes really well with tiffin *viz.* dosa(*attu*), idly, wada or my moms pesara punukulu. I usually pour Bombay chutney on top of groundnut chutney while having my tiffin.
 
