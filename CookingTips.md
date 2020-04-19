@@ -5,7 +5,7 @@
     * Little salt - chicken absorbs this salt by some kind of chemical process which makes chicken even tastier.(*Adding too much salt makes chicken not to ooze out moisture while cooking making chicken dry which is not required*)
     * Curd(*or lemon juice*) - Acid cooks the chicken and makes it even softer.
 ###     Note : 
-Adding curd in any recipe reduces it spice and hot(*heat*) which makes curry mild(*less intense*). Make sure to add spices and hot(*heat*) little extra if you are adding curd.
+Adding curd in any recipe reduces its spice and hot(*heat*) which makes curry mild(*less intense*). Make sure to add spices and hot(*heat*) little extra if you are adding curd.
     
 2. Wait till the chicken comes to room temperature before cooking. Adding cold chicken directly to hot vessel toughens the chicken which is not required.
 
