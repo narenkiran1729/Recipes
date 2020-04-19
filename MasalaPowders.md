@@ -10,6 +10,7 @@ Currently the following masala powders are available. I will try to update the o
 4. Chettinad Chicken Masala
 
 # Garam Masala
+The source ammachethivanta I used did not added the cumin which is necessary ingredient for garam masala. Below garam masala which I made is like biryani masala. So I will update the garam masala with jeera and sometimes pepper using [AttammaTV](https://youtu.be/XGL_RYujQ_o) 
 ## Overview
 This masala powder is used in almost all places viz. curries, fries, chutneys like Bombay chutney.   
 I learnt this from YouTube channel [Amma Chethi Vanta](https://youtu.be/PCfUOUas3-4)
