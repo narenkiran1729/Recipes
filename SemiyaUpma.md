@@ -1,6 +1,6 @@
 # Semiya Upma
 ## Overview
-![Semiya Upma](/Images/SemiyaUpma/FinalDish.JPG)  
+![Semiya Upma](/Images/SemiyaUpma/FinalDish.jpg)  
 My mom used to make this Upma which I really like. But sad news is when I ask my mom to do the same Upma, she makes it with different taste and consistency. My mom has little problem with reproducing the same recipes. I like the Upma which is tasty and has texture that is loose like pearls. I don't like mushy or sticky upma. Making semiya upma without stickiness is real challenge and the other challenge is taste.  
 I loved this upma very much that this upma made me learn cooking. Yes that's right I started  cooking just to make this upma since my mom is unable to reproduce the taste. After that I slowly started cooking biryani and others.  
 During my early cooking days when I was really experimenting to get the tasty semiya upma, I got the tasty upma like my mom made. This is an achievement but the sad news is that till now I am unable to reproduce the same. Even I became an expert in making biryani but still I am unable to reproduce the same tasty semiya upma which I myself has made.  
