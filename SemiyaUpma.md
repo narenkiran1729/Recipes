@@ -24,7 +24,8 @@ The taste really came from curry leaves, ginger, green chillies and tomato.
 4. Water : 1-1.25glass(*For 1 glass vermicelli, 1 glass water is required on medium(point just about to reach medium) flame*)
 5. Ginger : 2-3 times size of tamarind seed(*Crush the ginger(coarse sand like texture) so that its taste really gets infused into upma*)
 6. Onion : 1 small (*cut into slices. Adding more onion makes you feel like eating onion instead of upma*)
-7. Tomato : 2-3 medium size(*cut into slices*)
+7. Carrot(optional) : cut into small pieces
+8. Tomato : 2-3 medium size(*cut into slices*)
 
 ## Procedure
 Put on the stove and keep the flame based on the pan so that ingredients do not get burnt.
@@ -40,11 +41,12 @@ Thick bottomed pan => medium flame(*or just a little above*)
 8. Add sliced green chillies. Wait 5-10 seconds
 9. Add half curry leaves, crushing them a little in your hand by keeping aside the other half for later use. Wait 5-10 seconds
 10. Add sliced onions. Wait till they turn transparent. It will take roughly 1-2 minutes.
-11. Add sliced tomatoes and salt(*salt helps in cooking tomato faster*). Wait till they get soft.  It will take roughly 2-3 minutes.
-12. Add water. Check the seasoning and salt accordingly. Wait till water gets to rolling boiling.
-13. Add the other half curry leaves(crushed in hand). Then again wait till the onions and tomatoes get cooked properly in the boiling water.
-14. Add semiya. Wait till it absorbs water completely by stirring it so that it does not stick to bottom.
-15. Switch off the stove, put the lid and let it sit for 5-10 minutes before serving.
+11. Add Carrot(optional). Wait 1-2 minutes.
+12. Add sliced tomatoes and salt(*salt helps in cooking tomato faster*). Wait till they get soft.  It will take roughly 2-3 minutes.
+13. Add water. Check the seasoning and salt accordingly. Wait till water gets to rolling boiling.
+14. Add the other half curry leaves(crushed in hand). Then again wait till the onions and tomatoes get cooked properly in the boiling water.
+15. Add semiya. Wait till it absorbs water completely by stirring it so that it does not stick to bottom.
+16. Switch off the stove, put the lid and let it sit for 5-10 minutes before serving.
 
 That's it tasty semiya upma is ready to eat
 
