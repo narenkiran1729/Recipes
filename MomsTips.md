@@ -1,4 +1,4 @@
-# Moms Tips
+# Mom Tips
 # Cooking mutton
 Heat oil, add green chillies and onions. After they are cooked add mutton. Add water accordingly. Wait till it gets cooked. At the end of recipe add the masala.  
 According to my mom the masala taste required for mutton mainly is due to gasagasalu and Jeera.
