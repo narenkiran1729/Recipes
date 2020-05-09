@@ -5,17 +5,31 @@ Here I am going to place the masala powders which I had learnt. Because this is 
 Currently the following masala powders are available. I will try to update the other powders as soon as I learn them.
 
 1. Garam Masala
-2. Biryani Masala
-3. Kadai Chicken Masala
-4. Chettinad Chicken Masala
+2. Intense Biryani Masala
+3. Mild Biryani Masala
+4. Kadai Chicken Masala
+5. Chettinad Chicken Masala
 
 # Garam Masala
-The source ammachethivanta I used did not added the cumin which is necessary ingredient for garam masala. Below garam masala which I made is like biryani masala. So I will update the garam masala with jeera and sometimes pepper using [AttammaTV](https://youtu.be/XGL_RYujQ_o) 
+I will update the garam masala with jeera and sometimes pepper using [AttammaTV](https://youtu.be/XGL_RYujQ_o) 
+
 ## Overview
 This masala powder is used in almost all places viz. curries, fries, chutneys like Bombay chutney.   
-I learnt this from YouTube channel [Amma Chethi Vanta](https://youtu.be/PCfUOUas3-4)
+I learnt this from YouTube channel [AttammaTV](https://youtu.be/XGL_RYujQ_o). 
 I think garam masala is very much an essential requirement for almost all spicy curries.  
 I don't like to purchase these packed powders from shops as I don't believe in them.  
+
+## Ingredients
+Ingredients goes here
+### Note
+ 1. Garam masala does not include coriander powder and jeers powder. Add them separately if required for recipe. (*Do not skip adding coriander powder or jeera powder thinking that they are present in garam masala powder*)
+ 
+
+# Intense Biryani Masala
+## Overview
+I learnt this from YouTube channel [Amma Chethi Vanta](https://youtu.be/PCfUOUas3-4). Even though the channel mentions this as garam masala, I think this is intense biryani masala.
+I use this Biryani Masala not only for chicken biryani but also for my own egg biryani recipe(*I am unable to find egg biryani online which suits my taste , so I had to invent my own*)  
+I will try the same biryani masala for preparing Veg biryani and will update you soon.
 
 ## Ingredients
 ![GaramMasala](/Images/MasalaPowders/GaramMasala.JPG)
@@ -25,11 +39,10 @@ I don't like to purchase these packed powders from shops as I don't believe in t
 Sun dry for 1 hour and make into fine powder
 
 ### Note
-1. Garam masala does not include coriander powder and jeers powder. Add them separately if required for recipe. (*Do not skip adding coriander powder or jeera powder thinking that they are present in garam masala powder*)
-2. **Sun dry vs Dry roast**
-    * Dry roasting changes the flavour a bit(*due to chemical reactions in presence of heat*). You can experiment with dry roasting and check if that flavour suits you. Personally, I don't like the dry roast flavour so I prefer sun drying for GaramMasala and BiryaniMasala.
+1. **Sun dry vs Dry roast**
+    * Dry roasting changes the flavour a bit(*due to chemical reactions in presence of heat*). You can experiment with dry roasting and check if that flavour suits you. Personally, I don't like the dry roast flavour so I prefer sun drying for GaramMasala and BiryaniMasala. My friend and roommate Sainath suggested that dry roasted powder tastes really good. I will experiment and update here soon.
 
-# Biryani Masala
+# Mild Biryani Masala
 ## Overview
 I use this Biryani Masala not only for chicken biryani but also for my own egg biryani recipe(*I am unable to find egg biryani online which suits my taste , so I had to invent my own*)  
 I will try the same biryani masala for preparing Veg biryani and will update you soon.
