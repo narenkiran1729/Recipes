@@ -62,3 +62,5 @@ Curry leaves
 Cashew
 
 
+Note: Sometimes, I add cloves, cinnamon and cardamom in powdered form or whole or both.
+
