@@ -24,10 +24,10 @@ This is my self styled egg fried rice which tastes like *Paradise Restaurant's* 
 10. Spring onions _(optional)_ _(I never saw these paradise fried rice)_
 
 ### Procedure
-1. Heat oil in pan and when it is hot,  add beaten egg. 
+1. Heat oil in pan and when it is hot,  add beaten egg.  
     **Note:**
     *Egg puffs up around the edges. Remove the puffed edges carefully without disturbing the inside. Now, again egg puffs up around the edges. Again remove the puffed edges carefully. Do this until all the egg is puffed up completely.*
-2. Now add Veggies. Turn the flame to high. Wait till 50-70% is cooked.
+2. Now add Veggies. Turn the flame to high. Wait till 50-70% is cooked.  
     **Note:**
     *All chinese food needs to be cooked in high flame*
 3. Add rice and mix well. Listen to the sound when rice is fried.
