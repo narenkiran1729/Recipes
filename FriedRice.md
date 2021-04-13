@@ -2,7 +2,7 @@
 ## Overview
 This is my self styled egg fried rice which tastes like *Paradise Restaurant's* Egg Fried Rice. 
 
-**Note** This recipe's taste is inspired from [Egg Fried Rice by Vismai Food](https://youtu.be/jEQfy9QeJEU)
+**Note** This recipe is inspired from [Egg Fried Rice by Vismai Food](https://youtu.be/jEQfy9QeJEU)
 
 ## Ingredients
 1. Oil _(prefarably Palm oil)_
