@@ -10,7 +10,8 @@ jeera,
 garlic, 
 red chilli, 
 urad dal,
-chana dal. 
+chana dal,
+ground nut(optional)
 transfer this to mixer jar
 
 Note: urad dal and chana dal adds flavour and also absorbs the moisture in pachadi making it thick. they act as thickening agents.
@@ -25,5 +26,5 @@ kothimeera (for kothimeera pachadi)
 dondakaya (for dondakaya pachadi)
 
 
-
-Minor changes are there for different pachadis like gongura pachadi. i will update after consulting my mom.
+Vankaya Pachadi
+Add little coriander and ginger. according to my mom, this makes vankaya pachadi better
