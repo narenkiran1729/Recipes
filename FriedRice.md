@@ -21,7 +21,7 @@ This is my self styled egg fried rice which tastes like *Paradise Restaurant's* 
 7. Sugar
 8. Salt
 9. Ajinomoto
-10. Spring onions _(optional)_ _(I never saw these paradise fried rice)_
+10. Spring onions _(optional)_ _(I never saw these in paradise fried rice)_
 
 ### Procedure
 1. Heat oil in pan and when it is hot,  add beaten egg.  
@@ -32,7 +32,7 @@ This is my self styled egg fried rice which tastes like *Paradise Restaurant's* 
     *All chinese food needs to be cooked in high flame*
 3. Add rice and mix well. Listen to the sound when rice is fried.
 4. Add Soya Sauce, Chilli Vinegar, Salt, Sugar, Ajinomoto, Pepper(both black and white) and mix well.
-5. Add Spring onions just before turning of stove
+5. Add Spring onions just before turning off stove
 
 ### Observations
 Paradise fried rice taste comes mostly from chilli vinegar and pepper powder as far as I understood. Remaining taste comes from cooking style.
