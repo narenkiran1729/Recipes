@@ -1,17 +1,17 @@
 # Fried Rice
 ## Overview
-This is my self styled egg fried rice which tastes like *Paradise Restaurant's* Egg Fried Rice. 
+This is my self styled egg fried rice which tastes like *Paradise Restaurant's* Egg Fried Rice.  
 
-**Note** This recipe is inspired from [Egg Fried Rice by Vismai Food](https://youtu.be/jEQfy9QeJEU)
+**Note:** This recipe is inspired from [Egg Fried Rice by Vismai Food](https://youtu.be/jEQfy9QeJEU)
 
 ## Ingredients
 1. Oil _(prefarably Palm oil)_
 2. Eggs - Add salt, pepper and beat the eggs
 3. **Veggies**
-    * Cabbage
     * Carrot
-    * Capsicum
     * French beans
+    * Capsicum
+    *Note:* Carrot : French beans : Capsicum = 1 : 1 : 0.5
 4. Rice _(prefarably Basmati Rice)_ _(Cook till 80-90%)_
 4. **Spice Powders**
     * Black pepper
