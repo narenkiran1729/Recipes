@@ -10,7 +10,7 @@ This is my self styled egg fried rice which tastes like *Paradise Restaurant's* 
 3. **Veggies**
     * Carrot
     * French beans
-    * Capsicum
+    * Capsicum  
     *Note:* Carrot : French beans : Capsicum = 1 : 1 : 0.5
 4. Rice _(prefarably Basmati Rice)_ _(Cook till 80-90%)_
 4. **Spice Powders**
